@@ -11,7 +11,7 @@ Forca
 
 
 
-Como rodar o GameHub:
+<h4>Como rodar o GameHub:</h4>
 
 >Necessário ter todos os arquivos dentro do mesmo diretório.
 
